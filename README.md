@@ -1,7 +1,10 @@
 # tareas_1
-Introducción:Este proyecto se centra en la comprensión y aplicación de diversos tipos de constructores en Dart. Exploraremos constructores por nombre, constructores de fábrica y otros conceptos relacionados. A continuación, se presenta la documentación y comentarios detallados.
-Explicación: La clase Vehiculo muestra constructores por nombre para inicializar objetos de manera específica. El constructor desdeMotor se utiliza cuando solo se conoce el modelo y el motor, mientras que conCapacidad se usa cuando se conoce el modelo y la capacidad. Esto proporciona flexibilidad en la creación de instancias según la información disponible.
-Explicación: La clase ConexionDB utiliza un constructor de fábrica para garantizar que solo haya una instancia de la clase (patrón Singleton). Esto es útil en situaciones donde se desea una única conexión a la base de datos en toda la aplicación.
+#Introducción:
+Este proyecto se centra en la comprensión y aplicación de diversos tipos de constructores en Dart. Exploraremos constructores por nombre, constructores de fábrica y otros conceptos relacionados. A continuación, se presenta la documentación y comentarios detallados.
+#Explicación:
+La clase Vehiculo muestra constructores por nombre para inicializar objetos de manera específica. El constructor desdeMotor se utiliza cuando solo se conoce el modelo y el motor, mientras que conCapacidad se usa cuando se conoce el modelo y la capacidad. Esto proporciona flexibilidad en la creación de instancias según la información disponible.
+#Explicación: 
+La clase ConexionDB utiliza un constructor de fábrica para garantizar que solo haya una instancia de la clase (patrón Singleton). Esto es útil en situaciones donde se desea una única conexión a la base de datos en toda la aplicación.
 
 ## Getting Started
 
